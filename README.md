@@ -17,14 +17,14 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
 
 ### Comparision between Training and Testing dataset:
 
-	|Metric	|		|Linear Regression|	|Ridge Regression|	|Lasso Regression|
-|-|	|-------|		|-----------------|	|----------------|	|----------------|
-|0|	|R2 Score (Train)|	|0.939759|		|0.936456|		|0.886991|
-|1|	|R2 Score (Test)|	|0.908757|		|0.913474|		|0.890848|
-|2|	|RSS (Train)|		|8.990495|		|9.483481|		|16.865737|
-|3|	|RSS (Test)|		|5.598378|		|5.308977|		|6.697230|
-|4|	|MSE (Train)|		|0.094818|		|0.097383|		|0.129868|
-|5|	|MSE (Test)|		|0.114236|		|0.111244|		|0.124945|
+		|Metric	|		|Linear Regression|	|Ridge Regression|	|Lasso Regression|
+	|-|	|-------|		|-----------------|	|----------------|	|----------------|
+	|0|	|R2 Score (Train)|	|0.939759|		|0.936456|		|0.886991|
+	|1|	|R2 Score (Test)|	|0.908757|		|0.913474|		|0.890848|
+	|2|	|RSS (Train)|		|8.990495|		|9.483481|		|16.865737|
+	|3|	|RSS (Test)|		|5.598378|		|5.308977|		|6.697230|
+	|4|	|MSE (Train)|		|0.094818|		|0.097383|		|0.129868|
+	|5|	|MSE (Test)|		|0.114236|		|0.111244|		|0.124945|
 
 
  The five most important predictor variables in our model are:
